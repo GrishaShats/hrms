@@ -33,7 +33,7 @@
     "jspdf": "^2.1.1",
     "jspdf-autotable": "^3.5.13",
     "jwt-decode": "^3.0.0-beta.2",
-    "moment": "^2.29.0",
+    "moment": "^2.29.2",
     "ngx-bootstrap": "^6.1.0",
     "ngx-toastr": "^13.0.0",
     "popper.js": "^1.16.1",
